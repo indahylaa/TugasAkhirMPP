@@ -1,0 +1,11 @@
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\bin\Debug\TugasAkhirIndah.exe.config
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\bin\Debug\TugasAkhirIndah.exe
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\bin\Debug\TugasAkhirIndah.pdb
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.csproj.AssemblyReference.cache
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.Form1.resources
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.Properties.Resources.resources
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.csproj.GenerateResource.cache
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.csproj.CoreCompileInputs.cache
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.exe
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.pdb
+C:\Users\T470\source\repos\TugasAkhirIndah\TugasAkhirIndah\obj\Debug\TugasAkhirIndah.Home.resources
